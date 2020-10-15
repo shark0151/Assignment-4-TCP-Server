@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dsUhhsDxFsCiTUMbPI/waukI2ZxhAj9TIItUOD9wIDsWC2PYPt+G6jjfcqoy8LmaUcyXiODip2a8TS1Un7+kdw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\TCPBookServer\\TCPBookServer\\TCPBookServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

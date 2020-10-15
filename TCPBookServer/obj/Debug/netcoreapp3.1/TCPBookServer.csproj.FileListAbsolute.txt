@@ -1,0 +1,17 @@
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\TCPBookServer.exe
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\TCPBookServer.deps.json
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\TCPBookServer.runtimeconfig.json
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\TCPBookServer.runtimeconfig.dev.json
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\TCPBookServer.dll
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\TCPBookServer.pdb
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\BookLibraryAssignemnt.dll
+D:\Projects\TCPBookServer\TCPBookServer\bin\Debug\netcoreapp3.1\BookLibraryAssignemnt.xml
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.AssemblyInfoInputs.cache
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.AssemblyInfo.cs
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.csproj.CoreCompileInputs.cache
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.csproj.CopyComplete
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.dll
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.pdb
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.genruntimeconfig.cache
+D:\Projects\TCPBookServer\TCPBookServer\obj\Debug\netcoreapp3.1\TCPBookServer.csprojAssemblyReference.cache

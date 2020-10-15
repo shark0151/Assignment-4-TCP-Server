@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookLibraryAssignemnt</name>
+    </assembly>
+    <members>
+        <member name="P:BookLibraryAssignemnt.Book.Title">
+            <summary>
+            The title of the book
+            </summary>
+        </member>
+        <member name="P:BookLibraryAssignemnt.Book.Author">
+            <summary>
+            The author of the book
+            </summary>
+        </member>
+        <member name="P:BookLibraryAssignemnt.Book.Pages">
+            <summary>
+            The number of pages in the book
+            </summary>
+        </member>
+        <member name="P:BookLibraryAssignemnt.Book.Isbn">
+            <summary>
+            The isbn of the book
+            </summary>
+        </member>
+    </members>
+</doc>
